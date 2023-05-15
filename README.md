@@ -32,8 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
   
-  
-  
+ 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" width="42" alt="azure logo"  />
   <img src="https://www.chartjs.org/media/logo-title.svg" height="30" width="42" alt="azure logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" width="42" alt="azure logo"  />
@@ -45,13 +44,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" height="30" width="42" alt="azure logo"  />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="42" alt="azure logo"  />
   
-  
-  
+ 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DannyJoel05&show_icons=true&locale=en&layout=compact" alt="Dabu-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DannyJoel05&show_icons=true&locale=en" alt="Dabu-code" /></p>
 
 ###
 
